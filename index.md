@@ -13,7 +13,7 @@ In the context of federated learning (FL), updates to some parameters are more i
 
 | Part of the project    | Deadline |
 | ---------------------- | -------- |
-| [Proposal]()           | Feb 3    |
+| [Proposal](https://1drv.ms/b/s!AtiMpA7HPe0QhroXVhudx1adUrWmuA?e=JNeBbD)           | Feb 3    |
 | [Progress report]()    | Mar 3    |
 | [Class presentation]() | Apr 7    |
 | [Final report]()       | Apr 16   |
